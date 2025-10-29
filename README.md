@@ -5,7 +5,7 @@ It combines e-learning, project ideas, community collaboration, and a component 
 
 ---
 
-## 🚀 Features
+##  Features
 - **Learn Section:** Mini-courses with progress tracking and gamified ranks.
 - **Community Forum:** Post questions, share insights, and like others' threads.
 - **Ideas Hub:** Submit and upvote project ideas.
@@ -15,7 +15,7 @@ It combines e-learning, project ideas, community collaboration, and a component 
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 - **React 18**
 - **Vite 5**
 - **TailwindCSS** (optional, already styled with utility classes)
@@ -23,7 +23,7 @@ It combines e-learning, project ideas, community collaboration, and a component 
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 1. Unzip the project folder:
    ```bash
    unzip makerhub-app.zip
@@ -47,7 +47,7 @@ It combines e-learning, project ideas, community collaboration, and a component 
 
 ---
 
-## 🧠 Customization
+##  Customization
 You can customize the following easily:
 - Replace placeholder images in `App.jsx` (lines with `picsum.photos` URLs).
 - Add real course or product data to arrays at the top of the file.
@@ -56,11 +56,10 @@ You can customize the following easily:
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### 👨‍💻 Author
-Developed by **Anwesh Mahanta (Dream2Make)** — 2025  
-For contributions or suggestions, contact: `hello@makerhub.example`
+Developed by **Anwesh Mahanta**
